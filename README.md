@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Kenneth and I am a UC Davis trained computer scientist interested in all things AI and data science!
+
+- 🌱 I've recently built a Connect 4 game to play against AI with a team [here](https://github.com/anorak-lightman/ECS171FinalProject)
+- 💬 Ask me about L Store group project [here](https://github.com/apadhi-ucd/ecs165a)
+- 👯 I’m looking to collaborate more on Data science and AI
+- 📫 How to reach me: kennethtang383@gmail.com 
+
 <!--
 **Kenny5302/Kenny5302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
