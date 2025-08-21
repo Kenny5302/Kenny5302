@@ -26,7 +26,7 @@ I love building projects that blend algorithms, creativity, and problem-solving.
 ## 📫 Let's Connect  
 
 - 📧 Email: **kennethtang383@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/) _(www.linkedin.com/in/kennethtang530)_  
+- 💼 [LinkedIn](www.linkedin.com/in/kennethtang530)  
 
 ---
 
