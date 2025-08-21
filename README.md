@@ -15,6 +15,23 @@ I love building projects that blend algorithms, creativity, and problem-solving.
 
 ---
 
+## 🛠️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,sqlite,html,css" />
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenneth-tang&show_icons=true&theme=tokyonight" alt="Kenneth's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-tang&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>  
+
+---
+
 ## 🤝 What I'm Looking For  
 
 - 👯 Collaborating on **AI** and **Data Science** projects  
