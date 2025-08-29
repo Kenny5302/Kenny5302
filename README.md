@@ -18,7 +18,7 @@ I love building projects that blend algorithms, creativity, and problem-solving.
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,github,java,go,eclipse" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,github,java,go,eclipse,react" />
 </p>  
 
 ---
