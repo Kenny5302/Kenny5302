@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennethtang530)
 ![Email](https://img.shields.io/badge/Email-kennethtang383%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+🌐 **Portfolio:** [kenny5302.github.io](https://kenny5302.github.io), with animated walkthroughs of each project below
 
 ---
 
